@@ -2,6 +2,14 @@
     box-sizing:border-box;
 }
 
+#headimg{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    position: absolute;
+  
+}
 body{
     background-color: whitesmoke;
     font-family: Arial;
